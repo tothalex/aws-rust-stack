@@ -1,6 +1,6 @@
 {
-  "name": "aws-go-stack",
-  "version": "0.0.1",
+  "name": "aws-rust-stack",
+  "version": "0.0.0",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tothalex/aws-go-stack.git"
+    "url": "git+https://github.com/tothalex/aws-rust-stack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tothalex/aws-go-stack/issues"
+    "url": "https://github.com/tothalex/aws-rust-stack/issues"
   },
-  "homepage": "https://github.com/tothalex/aws-go-stack#readme",
+  "homepage": "https://github.com/tothalex/aws-rust-stack#readme",
   "dependencies": {
     "aws-cdk-lib": "2.5.0",
     "constructs": "^10.0.0",
